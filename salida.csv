@@ -1,0 +1,111 @@
+más:{'silabas': ['más'], 'entonacion': 'Aguda', 'term_aso': 'A', 'term_conso': 'As'}
+uno:{'silabas': ['u', 'no'], 'entonacion': 'Llana', 'term_aso': 'Uo', 'term_conso': 'Uno'}
+miravia:{'silabas': ['mi', 'ra', 'via'], 'entonacion': 'Llana', 'term_aso': 'Aia', 'term_conso': 'Avia'}
+isla:{'silabas': ['is', 'la'], 'entonacion': 'Llana', 'term_aso': 'Ia', 'term_conso': 'Isla'}
+abrazo:{'silabas': ['a', 'bra', 'zo'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Azo'}
+cuatro:{'silabas': ['cua', 'tro'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Atro'}
+abstemio:{'silabas': ['abs', 'te', 'mio'], 'entonacion': 'Llana', 'term_aso': 'Eio', 'term_conso': 'Emio'}
+perspicaz:{'silabas': ['pers', 'pi', 'caz'], 'entonacion': 'Aguda', 'term_aso': 'A', 'term_conso': 'Az'}
+Transplante:{'silabas': ['Trans', 'plan', 'te'], 'entonacion': 'Llana', 'term_aso': 'Ae', 'term_conso': 'Ante'}
+ciudad:{'silabas': ['ciu', 'dad'], 'entonacion': 'Aguda', 'term_aso': 'A', 'term_conso': 'Ad'}
+cuidar:{'silabas': ['cui', 'dar'], 'entonacion': 'Aguda', 'term_aso': 'A', 'term_conso': 'Ar'}
+raíz:{'silabas': ['ra', 'íz'], 'entonacion': 'Aguda', 'term_aso': 'I', 'term_conso': 'Iz'}
+María:{'silabas': ['Ma', 'rí', 'a'], 'entonacion': 'Llana', 'term_aso': 'Ia', 'term_conso': 'Ia'}
+poseer:{'silabas': ['po', 'se', 'er'], 'entonacion': 'Aguda', 'term_aso': 'E', 'term_conso': 'Er'}
+chií:{'silabas': ['chi', 'í'], 'entonacion': 'Aguda', 'term_aso': 'I', 'term_conso': 'I'}
+caer:{'silabas': ['ca', 'er'], 'entonacion': 'Aguda', 'term_aso': 'E', 'term_conso': 'Er'}
+etéreo:{'silabas': ['e', 'té', 're', 'o'], 'entonacion': 'Esdrújula', 'term_aso': 'Eeo', 'term_conso': 'Ereo'}
+prohíbe:{'silabas': ['pro', 'hí', 'be'], 'entonacion': 'Llana', 'term_aso': 'Ie', 'term_conso': 'Ibe'}
+prohibir:{'silabas': ['pro', 'hi', 'bir'], 'entonacion': 'Aguda', 'term_aso': 'I', 'term_conso': 'Ir'}
+agüero:{'silabas': ['a', 'güe', 'ro'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Ero'}
+apreciáis:{'silabas': ['a', 'pre', 'ciáis'], 'entonacion': 'Aguda', 'term_aso': 'Ai', 'term_conso': 'Ais'}
+convoy:{'silabas': ['con', 'voy'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Onvoy'}
+coyote:{'silabas': ['co', 'yo', 'te'], 'entonacion': 'Llana', 'term_aso': 'Oe', 'term_conso': 'Ote'}
+buey:{'silabas': ['buey'], 'entonacion': 'Aguda', 'term_aso': 'E', 'term_conso': 'Ey'}
+paraguaya:{'silabas': ['pa', 'ra', 'gua', 'ya'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Aya'}
+vivíais:{'silabas': ['vi', 'ví', 'ais'], 'entonacion': 'Llana', 'term_aso': 'Iai', 'term_conso': 'Iais'}
+corroer:{'silabas': ['co', 'rro', 'er'], 'entonacion': 'Aguda', 'term_aso': 'E', 'term_conso': 'Er'}
+conllevar:{'silabas': ['conlle', 'var'], 'entonacion': 'Aguda', 'term_aso': 'A', 'term_conso': 'Ar'}
+zafarrancho:{'silabas': ['za', 'fa', 'rrancho'], 'entonacion': 'Llana', 'term_aso': 'Aao', 'term_conso': 'Arrancho'}
+Miguelito:{'silabas': ['Mi', 'gue', 'li', 'to'], 'entonacion': 'Llana', 'term_aso': 'Io', 'term_conso': 'Ito'}
+queso:{'silabas': ['que', 'so'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Eso'}
+mantequilla:{'silabas': ['man', 'te', 'qui', 'lla'], 'entonacion': 'Llana', 'term_aso': 'Ia', 'term_conso': 'Illa'}
+bahía:{'silabas': ['ba', 'hí', 'a'], 'entonacion': 'Llana', 'term_aso': 'Ia', 'term_conso': 'Ia'}
+postproducción:{'silabas': ['post', 'pro', 'duc', 'ción'], 'entonacion': 'Aguda', 'term_aso': 'O', 'term_conso': 'On'}
+postear:{'silabas': ['pos', 'te', 'ar'], 'entonacion': 'Aguda', 'term_aso': 'A', 'term_conso': 'Ar'}
+antialérgico:{'silabas': ['an', 'tia', 'lér', 'gi', 'co'], 'entonacion': 'Esdrújula', 'term_aso': 'Eio', 'term_conso': 'Ergico'}
+condescendencia:{'silabas': ['con', 'des', 'cen', 'den', 'cia'], 'entonacion': 'Llana', 'term_aso': 'Eia', 'term_conso': 'Encia'}
+entreacto:{'silabas': ['en', 'tre', 'ac', 'to'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Acto'}
+desprevenido:{'silabas': ['des', 'pre', 've', 'ni', 'do'], 'entonacion': 'Llana', 'term_aso': 'Io', 'term_conso': 'Ido'}
+intuitivo:{'silabas': ['in', 'tui', 'ti', 'vo'], 'entonacion': 'Llana', 'term_aso': 'Io', 'term_conso': 'Ivo'}
+intuido:{'silabas': ['in', 'tui', 'do'], 'entonacion': 'Llana', 'term_aso': 'Io', 'term_conso': 'Ido'}
+conexión:{'silabas': ['co', 'ne', 'xión'], 'entonacion': 'Aguda', 'term_aso': 'O', 'term_conso': 'On'}
+configuración:{'silabas': ['con', 'fi', 'gu', 'ra', 'ción'], 'entonacion': 'Aguda', 'term_aso': 'O', 'term_conso': 'On'}
+sublime:{'silabas': ['su', 'bli', 'me'], 'entonacion': 'Llana', 'term_aso': 'Ie', 'term_conso': 'Ime'}
+océano:{'silabas': ['o', 'cé', 'a', 'no'], 'entonacion': 'Esdrújula', 'term_aso': 'Eao', 'term_conso': 'Eano'}
+fitoplancton:{'silabas': ['fi', 'to', 'plancton'], 'entonacion': 'Llana', 'term_aso': 'Oao', 'term_conso': 'Oplancton'}
+comba:{'silabas': ['com', 'ba'], 'entonacion': 'Llana', 'term_aso': 'Oa', 'term_conso': 'Omba'}
+labio:{'silabas': ['la', 'bio'], 'entonacion': 'Llana', 'term_aso': 'Aio', 'term_conso': 'Abio'}
+celo:{'silabas': ['ce', 'lo'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Elo'}
+acné:{'silabas': ['ac', 'né'], 'entonacion': 'Aguda', 'term_aso': 'E', 'term_conso': 'E'}
+tacto:{'silabas': ['tac', 'to'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Acto'}
+coro:{'silabas': ['co', 'ro'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Oro'}
+tecla:{'silabas': ['te', 'cla'], 'entonacion': 'Llana', 'term_aso': 'Ea', 'term_conso': 'Ecla'}
+chelo:{'silabas': ['che', 'lo'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Elo'}
+caldo:{'silabas': ['cal', 'do'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Aldo'}
+codo:{'silabas': ['co', 'do'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Odo'}
+cofia:{'silabas': ['co', 'fia'], 'entonacion': 'Llana', 'term_aso': 'Oia', 'term_conso': 'Ofia'}
+tongo:{'silabas': ['ton', 'go'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Ongo'}
+genio:{'silabas': ['ge', 'nio'], 'entonacion': 'Llana', 'term_aso': 'Eio', 'term_conso': 'Enio'}
+tigre:{'silabas': ['ti', 'gre'], 'entonacion': 'Llana', 'term_aso': 'Ie', 'term_conso': 'Igre'}
+lago:{'silabas': ['la', 'go'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Ago'}
+hierba:{'silabas': ['hier', 'ba'], 'entonacion': 'Llana', 'term_aso': 'Ea', 'term_conso': 'Erba'}
+halo:{'silabas': ['ha', 'lo'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Alo'}
+tipo:{'silabas': ['ti', 'po'], 'entonacion': 'Llana', 'term_aso': 'Io', 'term_conso': 'Ipo'}
+cielo:{'silabas': ['cie', 'lo'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Elo'}
+jarana:{'silabas': ['ja', 'ra', 'na'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Ana'}
+kiosko:{'silabas': ['kios', 'ko'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Osko'}
+lote:{'silabas': ['lo', 'te'], 'entonacion': 'Llana', 'term_aso': 'Oe', 'term_conso': 'Ote'}
+tallo:{'silabas': ['ta', 'llo'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Allo'}
+arma:{'silabas': ['ar', 'ma'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Arma'}
+ánfora:{'silabas': ['án', 'fo', 'ra'], 'entonacion': 'Esdrújula', 'term_aso': 'Aoa', 'term_conso': 'Anfora'}
+cono:{'silabas': ['co', 'no'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Ono'}
+uña:{'silabas': ['u', 'ña'], 'entonacion': 'Llana', 'term_aso': 'Ua', 'term_conso': 'Uña'}
+perro:{'silabas': ['pe', 'rro'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Erro'}
+rama:{'silabas': ['ra', 'ma'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Ama'}
+honra:{'silabas': ['hon', 'ra'], 'entonacion': 'Llana', 'term_aso': 'Oa', 'term_conso': 'Onra'}
+arpa:{'silabas': ['ar', 'pa'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Arpa'}
+trampa:{'silabas': ['tram', 'pa'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Ampa'}
+pera:{'silabas': ['pe', 'ra'], 'entonacion': 'Llana', 'term_aso': 'Ea', 'term_conso': 'Era'}
+amor:{'silabas': ['a', 'mor'], 'entonacion': 'Aguda', 'term_aso': 'O', 'term_conso': 'Or'}
+carro:{'silabas': ['ca', 'rro'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Arro'}
+rasgo:{'silabas': ['ras', 'go'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Asgo'}
+casa:{'silabas': ['ca', 'sa'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Asa'}
+trasto:{'silabas': ['tras', 'to'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Asto'}
+atleta:{'silabas': ['at', 'le', 'ta'], 'entonacion': 'Llana', 'term_aso': 'Ea', 'term_conso': 'Eta'}
+toro:{'silabas': ['to', 'ro'], 'entonacion': 'Llana', 'term_aso': 'Oo', 'term_conso': 'Oro'}
+cigüeña:{'silabas': ['ci', 'güe', 'ña'], 'entonacion': 'Llana', 'term_aso': 'Ea', 'term_conso': 'Eña'}
+lujo:{'silabas': ['lu', 'jo'], 'entonacion': 'Llana', 'term_aso': 'Uo', 'term_conso': 'Ujo'}
+calvo:{'silabas': ['cal', 'vo'], 'entonacion': 'Llana', 'term_aso': 'Ao', 'term_conso': 'Alvo'}
+convenir:{'silabas': ['con', 've', 'nir'], 'entonacion': 'Aguda', 'term_aso': 'I', 'term_conso': 'Ir'}
+kiwi:{'silabas': ['ki', 'wi'], 'entonacion': 'Llana', 'term_aso': 'Ii', 'term_conso': 'Iwi'}
+examen:{'silabas': ['e', 'xa', 'men'], 'entonacion': 'Llana', 'term_aso': 'Ae', 'term_conso': 'Amen'}
+externo:{'silabas': ['ex', 'ter', 'no'], 'entonacion': 'Llana', 'term_aso': 'Eo', 'term_conso': 'Erno'}
+yunque:{'silabas': ['yun', 'que'], 'entonacion': 'Llana', 'term_aso': 'Uue', 'term_conso': 'Unque'}
+cónyuge:{'silabas': ['cón', 'yu', 'ge'], 'entonacion': 'Esdrújula', 'term_aso': 'Oue', 'term_conso': 'Onyuge'}
+muy:{'silabas': ['muy'], 'entonacion': 'Aguda', 'term_aso': 'U', 'term_conso': 'Uy'}
+y:{'silabas': ['y'], 'entonacion': 'Aguda', 'term_aso': 'Y', 'term_conso': 'Y'}
+zarza:{'silabas': ['zar', 'za'], 'entonacion': 'Llana', 'term_aso': 'Aa', 'term_conso': 'Arza'}
+tizne:{'silabas': ['tiz', 'ne'], 'entonacion': 'Llana', 'term_aso': 'Ie', 'term_conso': 'Izne'}
+xerigrafía:{'silabas': ['xe', 'ri', 'gra', 'fí', 'a'], 'entonacion': 'Llana', 'term_aso': 'Ia', 'term_conso': 'Ia'}
+ferry:{'silabas': ['fe', 'rry'], 'entonacion': 'Llana', 'term_aso': 'E', 'term_conso': 'Erry'}
+accidentalmente:{'silabas': ['ac', 'ci', 'den', 'tal', 'men', 'te'], 'entonacion': 'Llana', 'term_aso': 'Ee', 'term_conso': 'Ente'}
+felizmente:{'silabas': ['fe', 'liz', 'men', 'te'], 'entonacion': 'Llana', 'term_aso': 'Ee', 'term_conso': 'Ente'}
+absolutamente:{'silabas': ['ab', 'so', 'lu', 'ta', 'men', 'te'], 'entonacion': 'Llana', 'term_aso': 'Ee', 'term_conso': 'Ente'}
+explícitamente:{'silabas': ['ex', 'plí', 'ci', 'ta', 'men', 'te'], 'entonacion': 'Esdrújula', 'term_aso': 'Iiaee', 'term_conso': 'Icitamente'}
+analógicamente:{'silabas': ['a', 'na', 'ló', 'gi', 'ca', 'men', 'te'], 'entonacion': 'Esdrújula', 'term_aso': 'Oiaee', 'term_conso': 'Ogicamente'}
+ábremelo:{'silabas': ['á', 'bre', 'me', 'lo'], 'entonacion': 'Esdrújula', 'term_aso': 'Aeeo', 'term_conso': 'Abremelo'}
+académicamente:{'silabas': ['a', 'ca', 'dé', 'mi', 'ca', 'men', 'te'], 'entonacion': 'Esdrújula', 'term_aso': 'Eiaee', 'term_conso': 'Emicamente'}
+atrápamelo:{'silabas': ['a', 'trá', 'pa', 'me', 'lo'], 'entonacion': 'Esdrújula', 'term_aso': 'Aaeo', 'term_conso': 'Apamelo'}
+asignándomelo:{'silabas': ['a', 'sig', 'nán', 'do', 'me', 'lo'], 'entonacion': 'Esdrújula', 'term_aso': 'Aoeo', 'term_conso': 'Andomelo'}
+asegurándoselo:{'silabas': ['a', 'se', 'gu', 'rán', 'do', 'se', 'lo'], 'entonacion': 'Esdrújula', 'term_aso': 'Aoeo', 'term_conso': 'Andoselo'}
